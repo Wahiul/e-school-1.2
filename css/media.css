@@ -1,0 +1,29 @@
+@media(max-width:768px){
+    .navbar-light .navbar-toggler {
+        color: transparent !important;
+        border-color: transparent !important;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .single_feature, .course{
+        margin-bottom: 30px;
+    }
+    .client{
+        margin-bottom: 50px;
+    }
+}
+@media(max-width:575px){
+    .banner_content h1{
+        font-size: 28px;
+    }
+    .banner_content p{
+        font-size: 15px;
+    }
+    .mobile_footer{
+        margin-top: 50px;
+    }
+    footer{
+        text-align: center;
+    }
+}
